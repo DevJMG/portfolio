@@ -1,6 +1,6 @@
-# Web-based Portfolio
+# ` Portfolio Website `
 
-This is the repository of my <a href="https://jmgadot.herokuapp.com/">web-based portfolio</a>.
+This is the repository of my <a href="https://jmgadot.herokuapp.com/">` portfolio website `</a>.
 
 ## Built using:
 
