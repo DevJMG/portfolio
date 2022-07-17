@@ -1,6 +1,6 @@
 # Web-based Portfolio
 
-This is the repository of my `[web-based portfolio](https://jmgadot.herokuapp.com/)`.
+This is the repository of my [web-based portfolio](https://jmgadot.herokuapp.com/).
 
 ## Built using:
 
@@ -15,7 +15,7 @@ This is the repository of my `[web-based portfolio](https://jmgadot.herokuapp.co
 ## Tools I used:
 
 <ul>
-    <li>[Visual Studio Code](https://code.visualstudio.com/)</li>
-    <li>[React Icons](https://react-icons.github.io/react-icons/)</li>
-    <li>[EmailJS](https://www.emailjs.com/)</li>
+    <li> [Visual Studio Code](https://code.visualstudio.com/) </li>
+    <li> [React Icons](https://react-icons.github.io/react-icons/) </li>
+    <li> [EmailJS](https://www.emailjs.com/) </li>
 </ul>
