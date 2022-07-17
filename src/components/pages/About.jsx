@@ -9,7 +9,7 @@ import { SiHtml5, SiCss3, SiJavascript, SiJquery, SiReact, SiTailwindcss, SiBoot
 import { Button } from './../Button';
 import { Card } from './../Card';
 import { Badge } from './../Badge';
-import cv from '../../assets/RESUME-CV-FRONT-END-JOHN-MICHAEL-GADOT.pdf';
+import cv from '../../assets/CV-FRONT-END-JOHN-MICHAEL-GADOT.pdf';
 
 function About() {
     return (
