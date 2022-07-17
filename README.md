@@ -4,18 +4,29 @@ This is the repository of my <a href="https://jmgadot.herokuapp.com/">web-based 
 
 ## Built using:
 
+### Languages:
 <ul>
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
+</ul>
+
+### Libraries and Frameworks:
+<ul>
     <li>TailwindCSS</li>
     <li>ReactJS</li>
+</ul>
+
+### Development Tools:
+<ul>
+    <li>NPM</li>
+    <li>Git</li>
 </ul>
 
 ## Tools I used:
 
 <ul>
-    <li> [Visual Studio Code](https://code.visualstudio.com/) </li>
-    <li> [React Icons](https://react-icons.github.io/react-icons/) </li>
-    <li> [EmailJS](https://www.emailjs.com/) </li>
+    <li> <a href="https://code.visualstudio.com/">Visual Studio Code</a> - For code editing</li>
+    <li> <a href="https://react-icons.github.io/react-icons/">React Icons</a> - For icons</li>
+    <li> <a href="https://www.emailjs.com/">EmailJS</a> - For sending email</li>
 </ul>
